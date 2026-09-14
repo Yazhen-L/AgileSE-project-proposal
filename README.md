@@ -1,6 +1,6 @@
-# Your Person
+# Your Person 
 
-### Choose Who You Need. Build a Bond That Grows.
+### Choose Who You Need. Build a Bond That Grows🙌🙌🙌.
 
 ## Members
 
