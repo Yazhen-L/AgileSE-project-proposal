@@ -5,7 +5,6 @@
 ## Members
 
 - [Yazhen Li](https://github.com/Yazhen-L)
-- [Celia Liang](https://github.com/liangchuxin)
 
 ## What & Why
 Your Person is a personalized AI social companion mobile web application designed for college students.
